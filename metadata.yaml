@@ -5,12 +5,17 @@ contributor:
     agent_name: Andrews, William T.
     gutenberg_agent_id: '52685'
     url: http://www.gutenberg.org/2009/agents/52685
+covers:
+- cover_type: archival
+  image_path: 64298-h/images/cover.jpg
 creator:
   author:
     agent_name: Breck, John
     gutenberg_agent_id: '52684'
     url: http://www.gutenberg.org/2009/agents/52684
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64298#The-Wavy-Tailed-Warrior
 gutenberg_issued: '2021-01-15'
 gutenberg_type: Text
 identifiers:
