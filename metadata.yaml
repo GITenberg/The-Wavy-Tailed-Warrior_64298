@@ -1,0 +1,25 @@
+_repo: The-Wavy-Tailed-Warrior_64298
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Andrews, William T.
+    gutenberg_agent_id: '52685'
+    url: http://www.gutenberg.org/2009/agents/52685
+creator:
+  author:
+    agent_name: Breck, John
+    gutenberg_agent_id: '52684'
+    url: http://www.gutenberg.org/2009/agents/52684
+description: ''
+gutenberg_issued: '2021-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64298'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Wavy Tailed Warrior
+url: http://www.gutenberg.org/ebooks/64298
